@@ -8,7 +8,7 @@ img{
 nav, figcaption{
   text-align: center;
 }
-
+nav a {
   float: none;
   position: absolute;
   top: 50%;
