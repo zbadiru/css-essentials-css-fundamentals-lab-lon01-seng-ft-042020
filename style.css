@@ -7,7 +7,11 @@ img{
   margin-right: auto;
 }
 nav a{
-  
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 body {
   width: 100%;
