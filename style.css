@@ -21,7 +21,8 @@ featured-property p {
 }
 
 #details div{
-  float: 
+  float: left;
+  
 }
 
 body {
