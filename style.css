@@ -6,6 +6,7 @@ img{
   margin: 0 auto
 }
 nav, figcaption{
+  text-align: center
   float: none;
   position: absolute;
   top: 50%;
